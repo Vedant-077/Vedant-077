@@ -1,5 +1,5 @@
 <p align="center">
-  <img https://i.pinimg.com/1200x/81/d7/70/81d77056397cb93847c27be30ab26d6e.jpg/>
+  <img src="./assets/banner.png" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=IT+Undergraduate+%7C+C%2B%2B+Enthusiast;DSA+Learner+%7C+Full+Stack+Developer;Building+Projects+%7C+Learning+Every+Day;Future+Software+Engineer+%F0%9F%9A%80" />
