@@ -2,18 +2,18 @@
   <img src="https://github.com/Vedant-077/Vedant-077/blob/main/assets/Baner.jpg?raw=true" width="100%">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=IT+Undergraduate+%7C+C%2B%2B+Enthusiast;DSA+Learner+%7C+Full+Stack+Developer;Building+Projects+%7C+Learning+Every+Day;Future+Software+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+There!+I+am+Vedant+Khating+%7C+C%2B%2B+Enthusiast;DSA+Learner+%7C+Full+Stack+Developer;Building+Projects+%7C+Learning+Every+Day;Future+Software+Engineer+%F0%9F%9A%80" />
 </p>
 <p align="center">
   <a href="https://github.com/Vedant-077">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/vedant-khating-58555a328">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="YOUR_EMAIL">
+  <a href="khatingvedant2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
