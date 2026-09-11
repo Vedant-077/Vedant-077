@@ -85,7 +85,7 @@ Hi! I'm **Vedant**, an IT undergraduate passionate about building software and s
 
 <p align="center">
   <a href="https://github.com/Vedant-077/KalaSetu">
-    <img src="./assets/projects/kalasetu.png" width="90%">
+    <img src="https://github.com/Vedant-077/Vedant-077/blob/main/assets/projects/Kalasetu_kaarigar.jpg?raw=true" width="90%">
   </a>
 </p>
 
