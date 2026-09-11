@@ -76,54 +76,67 @@ Hi! I'm **Vedant**, an IT undergraduate passionate about building software and s
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vedant-077&theme=tokyonight&hide_border=true" />
 </p>
-<!--
-**Vedant-077/Vedant-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  ---
 
 ## 🚀 Featured Projects
 
-### 🧠 DSA Journey
+---
+<h3>🎨 KalaSetu</h3>
 
-My daily journey of solving Data Structures and Algorithms problems in C++.
+<p align="center">
+  <a href="https://github.com/Vedant-077/KalaSetu">
+    <img src="./assets/projects/kalasetu.png" width="90%">
+  </a>
+</p>
 
-🔗 [View Repository](https://github.com/Vedant-077/DSA-Journey)
+<p align="center">
+  Connecting technology with cultural and artistic experiences.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vedant-077/KalaSetu">
+    <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+<h3>🏥 ChronicCare AI</h3>
+
+<p align="center">
+  <a href="https://github.com/Vedant-077/ChronicCare-AI-Powered-Disease-Management-Platform">
+    <img src="./assets/projects/chroniccare.png" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  An AI-powered disease management platform.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vedant-077/ChronicCare-AI-Powered-Disease-Management-Platform">
+    <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 🎨 KalaSetu
+<h3>🛒 E-Commerce Risk Dashboard</h3>
 
-A project focused on connecting technology with cultural/artistic experiences.
+<p align="center">
+  <a href="https://github.com/Vedant-077/ecommerce-risk-dashboard">
+    <img src="./assets/projects/ecommerce.png" width="90%">
+  </a>
+</p>
 
-🔗 [View Repository](https://github.com/Vedant-077/KalaSetu)
+<p align="center">
+  An interactive dashboard focused on analyzing e-commerce risk.
+</p>
 
----
-
-### 🛒 E-Commerce Risk Dashboard
-
-A dashboard project focused on analyzing e-commerce risk.
-
-🔗 [View Repository](https://github.com/Vedant-077/ecommerce-risk-dashboard)
-
----
-
-### 🏥 ChronicCare AI
-
-An AI-powered disease management platform.
-
-🔗 [View Repository](https://github.com/Vedant-077/ChronicCare-AI-Powered-Disease-Management-Platform)
+<p align="center">
+  <a href="https://github.com/Vedant-077/ecommerce-risk-dashboard">
+    <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
