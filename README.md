@@ -67,10 +67,6 @@ Hi! I'm **Vedant**, an IT undergraduate passionate about building software and s
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-077&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -140,14 +136,3 @@ Hi! I'm **Vedant**, an IT undergraduate passionate about building software and s
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer"/>
-</p>
